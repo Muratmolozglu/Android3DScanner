@@ -1,13 +1,10 @@
 <resources>
-    <string name="app_name">Android 3D Scanner</string>
-    <string name="start_scan">Start Scan</string>
-    <string name="stop_scan">Stop Scan</string>
-    <string name="save_model">Save Model</string>
-    <string name="status_idle">Status: Idle</string>
-    <string name="status_scanning">Status: Scanning</string>
-    <string name="status_saving">Status: Saving model</string>
-    <string name="toast_scan_started">Scan started</string>
-    <string name="toast_scan_stopped">Scan stopped</string>
-    <string name="toast_model_saved">Model saved</string>
-    <string name="toast_camera_permission_required">Camera permission is required</string>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#1F2937</color>
 </resources>
